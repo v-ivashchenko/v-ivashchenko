@@ -32,6 +32,7 @@ Useful features:
 Technologies: 
 **Swift, UIKit, MVVM, URLSession, In-App Purchases, XCTest**
 
+## Demonstration
 <p>
   <img src="IFRS%20Mentor/6_5_1.png" width="192">
   <img src="IFRS%20Mentor/6_5_2.png" width="192">
