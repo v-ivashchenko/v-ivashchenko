@@ -29,6 +29,8 @@ Useful features:
 - Basic definitions about IFRS
 - etc.
 
+**Note**. Although I hate it, but russian language was chosen because this exam is taken exclusively in it.
+
 Technologies: 
 **Swift, UIKit, MVVM, URLSession, In-App Purchases, XCTest**
 
