@@ -20,7 +20,10 @@ Technologies:
 </p>
 
 # [IFRS Mentor](https://apps.apple.com/ua/app/ifrs-mentor/id1611084704) 
-<a href="https://apps.apple.com/us/app/ifrs-mentor/id1611084704?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1645401600" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+<a href="https://apps.apple.com/us/app/ifrs-mentor/id1611084704?itscg=30200&itsct=apps_box_badge&mttnsubad=1611084704" style="display: inline-block;">
+  <img src="https://toolbox.marketingtools.apple.com/api/v2/badges/download-on-the-app-store/black/en-us?releaseDate=1645401600" alt="Download on the App Store" style="width: 245px; height: 82px; vertical-align: middle; object-fit: contain;" />
+</a>
+    
 
 An educational application (assistant) in studying international financial reporting standards and preparing for the DipIFR exam (DipIFR).
 
